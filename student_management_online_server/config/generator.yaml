@@ -1,0 +1,3 @@
+type: server
+
+client_package_path: ../student_management_online_client
