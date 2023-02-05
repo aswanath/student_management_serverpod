@@ -1,0 +1,7 @@
+class: Student
+table: student
+fields:
+  name: String
+  age: int
+  currentClass: int
+  place: String

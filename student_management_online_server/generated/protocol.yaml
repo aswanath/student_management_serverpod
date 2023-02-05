@@ -1,2 +1,8 @@
 example:
   - hello:
+studentEndPoint:
+  - getStudents:
+  - create:
+  - update:
+  - delete:
+  - get:
